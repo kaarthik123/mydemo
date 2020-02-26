@@ -3,7 +3,7 @@ public class AddTwoIntegers {
     public static void main(String[] args) {
         
         int first = 30;
-        int second = 20;
+         second = 201;
 
         int sum = first + second;
 
